@@ -1,0 +1,5 @@
+# Config file
+config/config.py
+
+# Generated Excel files
+*.xlsx
