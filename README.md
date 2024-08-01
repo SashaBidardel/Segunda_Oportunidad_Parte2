@@ -5,7 +5,7 @@
 Este proyecto integra Salesforce y MySQL con un API en Python para gestionar productos usados y segundas oportunidades, realizando cálculos financieros y generando informes en formato Excel. La aplicación consta de las siguientes partes principales:
 
 - [Parte de Python](https://github.com/SashaBidardel/Segunda_Oportunidad_Parte2/tree/main/SegundaOportunidad_Python)
-- [Parte de Salesforce](#SegundaOportunidad_Salesforce)
+- [Parte de Salesforce](https://github.com/SashaBidardel/Segunda_Oportunidad_Parte2/tree/main/SegundaOportunidad_Salesforce)
 
 
 ## Estructura del Proyecto
