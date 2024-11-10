@@ -59,7 +59,7 @@ python main.py
 - Esto realizará las siguientes acciones:
 
     - Conectará a Salesforce y MySQL.
-    - Reseteará las columnas relevantes en la base de datos MySQL.
+    - Reseteará las columnas más relevantes en la base de datos MySQL.
     - Procesará los productos usados obtenidos de Salesforce.
     - Insertará o actualizará los registros de usuarios en MySQL.
     - Calculará la cuota a pagar y el impuesto de transmisiones para cada usuario.
